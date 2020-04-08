@@ -1,6 +1,6 @@
 # PHP Login System
 
-Creating the Database Table
+#Creating the Database Table<hr>
 Execute the following SQL query to create a table named employees inside your MySQL database. We will use this table for all of our future operations.
 
 ```
