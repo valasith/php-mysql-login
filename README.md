@@ -2,7 +2,8 @@
 
 #Login Page
 ![login](https://user-images.githubusercontent.com/11474426/78792976-06ad2d00-79dc-11ea-99fe-a59c67662498.PNG)
-
+#username: admin
+#password: admin
 
 #Home Page
 ![home](https://user-images.githubusercontent.com/11474426/78792478-5b9c7380-79db-11ea-86cf-bc2dfdb1f905.PNG)
