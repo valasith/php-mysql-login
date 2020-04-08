@@ -11,6 +11,7 @@
 ## Profile Page
 ![profile](https://user-images.githubusercontent.com/11474426/78792508-648d4500-79db-11ea-836c-9a2cbc4094bb.PNG)
 <hr>
+
 # Creating the Database Table
 ```
 CREATE TABLE employees (
