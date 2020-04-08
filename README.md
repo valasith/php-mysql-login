@@ -3,12 +3,14 @@
 Creating the Database Table
 Execute the following SQL query to create a table named employees inside your MySQL database. We will use this table for all of our future operations.
 
->CREATE TABLE employees (
->    id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
->    name VARCHAR(100) NOT NULL,
->    address VARCHAR(255) NOT NULL,
->    salary INT(10) NOT NULL
->);
+```
+CREATE TABLE employees (
+    id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+    name VARCHAR(100) NOT NULL,
+    address VARCHAR(255) NOT NULL,
+    salary INT(10) NOT NULL
+);
+```
 
 #Login Page
 ![login](https://user-images.githubusercontent.com/11474426/78792976-06ad2d00-79dc-11ea-99fe-a59c67662498.PNG)
