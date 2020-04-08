@@ -1,7 +1,7 @@
 # PHP Login System
 
 #Login Page
-![login](https://user-images.githubusercontent.com/11474426/78792442-517a7500-79db-11ea-80b8-9004d68db496.PNG)
+![login](https://user-images.githubusercontent.com/11474426/78792976-06ad2d00-79dc-11ea-99fe-a59c67662498.PNG)
 
 
 #Home Page
